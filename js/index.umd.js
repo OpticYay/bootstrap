@@ -32,3 +32,5 @@ export default {
   Toast,
   Tooltip
 }
+
+console.log("Hello");
