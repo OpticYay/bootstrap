@@ -1,1 +1,2 @@
 hotfix hello bootstrap
+added message to stash
